@@ -1,0 +1,9 @@
+{
+  "id": "15bdc71f-4a9d-4dbd-88ad-d465789526fd",
+  "alias": "CustomOfficeUiFabricLibrary",
+  "componentType": "Library",
+
+  // The "*" signifies that the version should be taken from the package.json
+  "version": "*",
+  "manifestVersion": 2
+}
